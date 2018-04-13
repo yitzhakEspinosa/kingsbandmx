@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Repertorio>
+    <Artistas>
+        <Artista nombre="Aline Barros">
+            
+            <cancion>                
+                <nombre >Resucitame</nombre>
+            </cancion>
+        </Artista>
+
+        <Artista nombre="Art Aguilera">
+            
+            <cancion>
+                <nombre>Hay Libertad</nombre>
+            </cancion>
+        </Artista> 
+
+        <Artista nombre="Bani Muñoz">
+            <cancion>
+                <nombre>Ciudad De Colores</nombre>
+                <album>Ciudad De Colores</album>
+                <FechaLanzamiento>2012</FechaLanzamiento>
+                <genero>Rock</genero>
+            </cancion>
+            <cancion>
+                <nombre>Te Adoro</nombre>
+                <album>Ciudad de Colores</album>
+                <FechaLanzamiento>2012</FechaLanzamiento>
+                <genero>Rock</genero>
+            </cancion>
+            <cancion>
+                <nombre>vivo Danzando</nombre>
+                <album>Vuelve Otra Vez</album>
+                <FechaLanzamiento>2016</FechaLanzamiento>
+                <genero>Gospel</genero>
+            </cancion>
+
+        </Artista>
+
+        <Artista nombre="Barak">
+        </Artista>
+
+        <Artista nombre="Christine D'Clario">
+        </Artista> 
+
+
+    </Artistas>
+</Repertorio>
+
